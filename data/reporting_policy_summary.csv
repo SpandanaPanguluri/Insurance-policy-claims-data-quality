@@ -1,0 +1,9 @@
+policy_id,line_of_business,risk_state,policy_status,reported_premium,claim_count,reported_incurred
+P2001,Commercial Auto,PA,ACTIVE,42000,2,20000
+P2002,General Liability,NJ,ACTIVE,36500,0,0
+P2003,Workers Compensation,PA,ACTIVE,78200,1,40000
+P2004,Commercial Package,DE,ACTIVE,43800,1,15000
+P2005,Commercial Auto,MD,ACTIVE,29400,0,0
+P2006,Workers Compensation,PA,ACTIVE,61500,1,18500
+P2007,General Liability,PA,ACTIVE,33100,0,0
+P2008,Commercial Package,NJ,ACTIVE,47100,1,9000

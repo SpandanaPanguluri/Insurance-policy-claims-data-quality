@@ -1,0 +1,9 @@
+policy_id,account_id,line_of_business,risk_state,effective_date,expiration_date,policy_status,written_premium
+P2001,A1001,Commercial Auto,PA,2026-01-01,2026-12-31,ACTIVE,42000
+P2002,A1002,General Liability,NJ,2026-02-15,2027-02-14,ACTIVE,36500
+P2003,A1003,Workers Compensation,PA,2026-03-01,2027-02-28,ACTIVE,78200
+P2004,A1004,Commercial Package,DE,2026-01-10,2027-01-09,CANCELLED,55800
+P2005,A1005,Commercial Auto,MD,2026-04-01,2027-03-31,ACTIVE,29400
+P2006,A1006,Workers Compensation,PA,2026-05-01,2027-04-30,ACTIVE,61500
+P2007,A1007,General Liability,PA,2026-06-01,2027-05-31,ACTIVE,33100
+P2008,A1008,Commercial Package,NJ,2026-07-01,2027-06-30,ACTIVE,47100
